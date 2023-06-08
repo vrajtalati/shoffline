@@ -1,0 +1,17 @@
+.card{
+    display: inline;
+    width: 80%;
+    height: 200px;
+
+    background-color: white;
+    border-radius: 2rem;
+    border: 2px solid black;
+}
+.card-body
+{
+    padding: 1.5rem;
+}
+.card-text
+{
+    padding-top:2rem ;
+}
